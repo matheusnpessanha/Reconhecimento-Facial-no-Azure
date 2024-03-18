@@ -21,7 +21,7 @@ O processo é bem simples e muito intuitivo. Basta carregar a imagem desejada e 
 ![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/14b71504-1bb0-4202-b9f4-3e2b4427806a)
 ![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/6a5ce446-6ecf-448d-9d99-2634aa4e6deb)
 
-Podemos então(“Meio que obvio”) ver na detecção de atributos que a imagem carregada gerou como resultado 1 Rosto(Face) sem Máscara Facial para esta imagem carregada.
+Podemos então ver na detecção de atributos que a imagem carregada gerou como resultado 1 Rosto (Face) sem Máscara Facial para esta imagem carregada.
 Para implementação em uma aplicação ainda podemos contar com um “Código de Amostra”.Basta Selecionar a Linguagem que servirá para codificar a implementação.
 ![image](https://github.com/AdrianoProfileAdsCloud/Prj2-AI-900/assets/141897391/42dd987d-1c53-4769-92c1-a25079d9549f)
 
